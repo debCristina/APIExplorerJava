@@ -26,12 +26,6 @@ O **JavaAPIViaCepExplorer** é um projeto em Java desenvolvido para explorar e i
 - Biblioteca HttpClient para requisições HTTP
 - Gson para manipulação de dados em formato JSON
 
-## Como Executar
-
-1. Clone este repositório para sua máquina local.
-2. Abra o projeto em sua IDE preferida.
-3. Compile e execute a classe principal `Main.java`.
-
 ## Experiência obtida
 Minha experiência ao realizar o projeto JavaAPIViaCepExplorer foi incrivelmente gratificante. Estudar a linguagem Java e seus aspectos fundamentais tem sido essencial para o meu desenvolvimento como desenvolvedor. Durante este desafio, adquiri uma variedade de conhecimentos, desde me familiarizar com a sintaxe da linguagem até estruturar o código de forma eficiente, aplicando os princípios da programação orientada a objetos (POO).
 
